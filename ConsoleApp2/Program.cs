@@ -11,6 +11,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             // Input
+            // This comment was added to test adding to github
             Console.WriteLine("Enter a number between 1 and 100:");
             int Number = Convert.ToInt32(Console.ReadLine());
 
